@@ -1,3 +1,5 @@
+https://github.com/sdf8057/packages.git
+
 # OpenWrt packages feed
 
 ## Description
