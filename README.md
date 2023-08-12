@@ -1,5 +1,8 @@
 https://github.com/sdf8057/packages.git
 
+https://github.com/immortalwrt/packages.git
+
+
 # OpenWrt packages feed
 
 ## Description
